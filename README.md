@@ -22,6 +22,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/PardivReddy/DSA-JAVA/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PardivReddy/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0867-new-21-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0867-new-21-game) |
 ## Math
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0867-new-21-game) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/PardivReddy/DSA-JAVA/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/PardivReddy/DSA-JAVA/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
