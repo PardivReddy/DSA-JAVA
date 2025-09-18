@@ -7,10 +7,12 @@
 | [0001-two-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PardivReddy/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0792-binary-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0792-binary-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0792-binary-search) |
 ## Matrix
 |  |
 | ------- |
