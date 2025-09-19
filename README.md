@@ -31,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0867-new-21-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0867-new-21-game) |
 ## Sliding Window
 |  |
@@ -47,9 +48,14 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/PardivReddy/DSA-JAVA/tree/master/0010-regular-expression-matching) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/PardivReddy/DSA-JAVA/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
