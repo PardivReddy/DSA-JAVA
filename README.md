@@ -91,4 +91,20 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
