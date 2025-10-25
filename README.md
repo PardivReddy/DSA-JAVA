@@ -75,6 +75,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/PardivReddy/DSA-JAVA/tree/master/0024-swap-nodes-in-pairs) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/PardivReddy/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Trie
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/PardivReddy/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/PardivReddy/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
@@ -112,6 +114,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/PardivReddy/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/PardivReddy/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
@@ -122,6 +125,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/PardivReddy/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/PardivReddy/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/PardivReddy/DSA-JAVA/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
@@ -133,6 +137,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/PardivReddy/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/PardivReddy/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 ## Bit Manipulation
