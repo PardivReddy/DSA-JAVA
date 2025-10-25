@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PardivReddy/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/PardivReddy/DSA-JAVA/tree/master/0322-coin-change) |
 | [0792-binary-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PardivReddy/DSA-JAVA/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PardivReddy/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/PardivReddy/DSA-JAVA/tree/master/0322-coin-change) |
 | [0867-new-21-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0867-new-21-game) |
 ## Math
 |  |
@@ -118,6 +120,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/PardivReddy/DSA-JAVA/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
