@@ -79,6 +79,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/PardivReddy/DSA-JAVA/tree/master/0024-swap-nodes-in-pairs) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PardivReddy/DSA-JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PardivReddy/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Trie
 |  |
@@ -110,6 +111,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PardivReddy/DSA-JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PardivReddy/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/PardivReddy/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0226-invert-binary-tree) |
@@ -125,6 +127,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PardivReddy/DSA-JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PardivReddy/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/PardivReddy/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0226-invert-binary-tree) |
@@ -153,6 +156,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PardivReddy/DSA-JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PardivReddy/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/PardivReddy/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0226-invert-binary-tree) |
@@ -169,6 +173,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PardivReddy/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PardivReddy/DSA-JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
