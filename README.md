@@ -14,6 +14,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PardivReddy/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/PardivReddy/DSA-JAVA/tree/master/0322-coin-change) |
+| [0682-baseball-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0682-baseball-game) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/PardivReddy/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0792-binary-search) |
 ## Binary Search
@@ -202,9 +203,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/PardivReddy/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PardivReddy/DSA-JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PardivReddy/DSA-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0682-baseball-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0682-baseball-game) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0099-recover-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
