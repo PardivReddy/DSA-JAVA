@@ -120,6 +120,7 @@
 | [0226-invert-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PardivReddy/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0226-invert-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PardivReddy/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [0322-coin-change](https://github.com/PardivReddy/DSA-JAVA/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PardivReddy/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -174,6 +177,7 @@
 | [0226-invert-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PardivReddy/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
