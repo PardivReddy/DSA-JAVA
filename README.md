@@ -121,6 +121,7 @@
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PardivReddy/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -141,6 +142,7 @@
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PardivReddy/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -159,6 +161,7 @@
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PardivReddy/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -181,6 +184,7 @@
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PardivReddy/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
