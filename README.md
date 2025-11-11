@@ -119,6 +119,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/PardivReddy/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/PardivReddy/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/PardivReddy/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/PardivReddy/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [0226-invert-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/PardivReddy/DSA-JAVA/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/PardivReddy/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/PardivReddy/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/PardivReddy/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Bit Manipulation
 |  |
 | ------- |
