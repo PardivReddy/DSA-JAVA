@@ -129,6 +129,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/PardivReddy/DSA-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PardivReddy/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PardivReddy/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PardivReddy/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
@@ -152,6 +153,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/PardivReddy/DSA-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PardivReddy/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PardivReddy/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PardivReddy/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
@@ -196,6 +198,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/PardivReddy/DSA-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PardivReddy/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PardivReddy/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PardivReddy/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
@@ -222,6 +225,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0099-recover-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PardivReddy/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Simulation
 |  |
 | ------- |
