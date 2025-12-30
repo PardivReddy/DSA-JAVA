@@ -46,6 +46,7 @@
 | [0045-jump-game-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/PardivReddy/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0095-unique-binary-search-trees-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/PardivReddy/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PardivReddy/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/PardivReddy/DSA-JAVA/tree/master/0322-coin-change) |
 | [0867-new-21-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0867-new-21-game) |
@@ -56,6 +57,7 @@
 | [0012-integer-to-roman](https://github.com/PardivReddy/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PardivReddy/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0029-divide-two-integers) |
+| [0096-unique-binary-search-trees](https://github.com/PardivReddy/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0441-arranging-coins](https://github.com/PardivReddy/DSA-JAVA/tree/master/0441-arranging-coins) |
 | [0867-new-21-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0867-new-21-game) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -122,6 +124,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PardivReddy/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/PardivReddy/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0100-same-tree) |
@@ -194,6 +197,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PardivReddy/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/PardivReddy/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0100-same-tree) |
@@ -236,6 +240,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/PardivReddy/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PardivReddy/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
