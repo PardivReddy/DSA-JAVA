@@ -20,6 +20,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PardivReddy/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PardivReddy/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/PardivReddy/DSA-JAVA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
@@ -34,6 +35,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PardivReddy/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/PardivReddy/DSA-JAVA/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/PardivReddy/DSA-JAVA/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0792-binary-search) |
@@ -49,6 +51,7 @@
 | [0012-integer-to-roman](https://github.com/PardivReddy/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PardivReddy/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PardivReddy/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
@@ -69,6 +72,7 @@
 | [0013-roman-to-integer](https://github.com/PardivReddy/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0029-divide-two-integers) |
 | [0096-unique-binary-search-trees](https://github.com/PardivReddy/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
+| [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/PardivReddy/DSA-JAVA/tree/master/0441-arranging-coins) |
 | [0867-new-21-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0867-new-21-game) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -129,6 +133,7 @@
 | [0015-3sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/PardivReddy/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## String Matching
@@ -245,6 +250,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
