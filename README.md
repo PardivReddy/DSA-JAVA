@@ -52,6 +52,7 @@
 | [0012-integer-to-roman](https://github.com/PardivReddy/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PardivReddy/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PardivReddy/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0242-valid-anagram](https://github.com/PardivReddy/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/0496-next-greater-element-i) |
@@ -96,6 +97,7 @@
 | [0014-longest-common-prefix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/PardivReddy/DSA-JAVA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/PardivReddy/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1894-merge-strings-alternately](https://github.com/PardivReddy/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 ## Recursion
@@ -137,6 +139,7 @@
 | [0015-3sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/PardivReddy/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/PardivReddy/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
