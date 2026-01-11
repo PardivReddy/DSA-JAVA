@@ -29,6 +29,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/PardivReddy/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0792-binary-search) |
 | [1975-maximum-matrix-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/0496-next-greater-element-i) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0242-valid-anagram](https://github.com/PardivReddy/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1894-merge-strings-alternately](https://github.com/PardivReddy/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Recursion
 |  |
 | ------- |
@@ -143,6 +146,7 @@
 | [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/PardivReddy/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## String Matching
 |  |
 | ------- |
