@@ -95,6 +95,7 @@
 | [0013-roman-to-integer](https://github.com/PardivReddy/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/PardivReddy/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1894-merge-strings-alternately](https://github.com/PardivReddy/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 ## Recursion
@@ -126,6 +127,7 @@
 | [0027-remove-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/PardivReddy/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PardivReddy/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/PardivReddy/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/PardivReddy/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
