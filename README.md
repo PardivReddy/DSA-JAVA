@@ -33,6 +33,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/PardivReddy/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0792-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
+| [1652-defuse-the-bomb](https://github.com/PardivReddy/DSA-JAVA/tree/master/1652-defuse-the-bomb) |
 | [1975-maximum-matrix-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Binary Search
@@ -103,6 +104,7 @@
 | [0867-new-21-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0867-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1652-defuse-the-bomb](https://github.com/PardivReddy/DSA-JAVA/tree/master/1652-defuse-the-bomb) |
 ## Probability and Statistics
 |  |
 | ------- |
