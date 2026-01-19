@@ -19,6 +19,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PardivReddy/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PardivReddy/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
@@ -130,6 +131,7 @@
 | [0014-longest-common-prefix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/PardivReddy/DSA-JAVA/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PardivReddy/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/PardivReddy/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/PardivReddy/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
@@ -178,6 +180,7 @@
 | ------- |
 | [0015-3sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/PardivReddy/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
@@ -305,6 +308,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0045-jump-game-ii) |
+| [0179-largest-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0179-largest-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 ## Stack
