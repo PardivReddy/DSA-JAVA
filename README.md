@@ -169,6 +169,7 @@
 | [0125-valid-palindrome](https://github.com/PardivReddy/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PardivReddy/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/PardivReddy/DSA-JAVA/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/PardivReddy/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [1894-merge-strings-alternately](https://github.com/PardivReddy/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -178,6 +179,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/PardivReddy/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/PardivReddy/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/PardivReddy/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -338,6 +340,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/PardivReddy/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -385,4 +388,12 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/PardivReddy/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/PardivReddy/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
