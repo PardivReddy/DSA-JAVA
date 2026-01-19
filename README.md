@@ -35,6 +35,7 @@
 | [0904-fruit-into-baskets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
 | [1652-defuse-the-bomb](https://github.com/PardivReddy/DSA-JAVA/tree/master/1652-defuse-the-bomb) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -51,6 +52,7 @@
 | [0441-arranging-coins](https://github.com/PardivReddy/DSA-JAVA/tree/master/0441-arranging-coins) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PardivReddy/DSA-JAVA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0792-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [0904-fruit-into-baskets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1652-defuse-the-bomb](https://github.com/PardivReddy/DSA-JAVA/tree/master/1652-defuse-the-bomb) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -177,6 +180,7 @@
 | [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/PardivReddy/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## String Matching
 |  |
@@ -297,6 +301,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0045-jump-game-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 ## Stack
 |  |
@@ -367,6 +372,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Enumeration
 |  |
 | ------- |
