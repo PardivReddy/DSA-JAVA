@@ -1,31 +1,26 @@
 class MedianFinder {
-    private List<Integer> list;
+     private PriorityQueue<Integer> maxheap;
+        private PriorityQueue<Integer> minheap;
     public MedianFinder() {
-        list = new ArrayList<>();
+       maxheap=new PriorityQueue<>();
+       minheap=new PriorityQueue<>(Collections.reverseOrder());
     }
     public void addNum(int num) {
-        int left = 0, right = list.size();
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            if (list.get(mid) < num) {
-                left = mid + 1;
-            } else {
-                right = mid;
-            }
+        maxheap.offer(num);
+        minheap.offer(maxheap.poll());
+        if(maxheap.size()<minheap.size()){
+            maxheap.offer(minheap.poll());
         }
-        list.add(left, num);
     }
-    
     
     public double findMedian() {
-        int n = list.size();
-        if (n % 2 == 1) {
-            return list.get(n / 2);
-        } else {
-            return (list.get(n / 2 - 1) + list.get(n / 2)) / 2.0;
+        if(maxheap.size()>minheap.size()){
+            return maxheap.peek();
         }
+        return (maxheap.peek() + minheap.peek())/2.0;
     }
 }
+
 /**
  * Your MedianFinder object will be instantiated and called as such:
  * MedianFinder obj = new MedianFinder();
