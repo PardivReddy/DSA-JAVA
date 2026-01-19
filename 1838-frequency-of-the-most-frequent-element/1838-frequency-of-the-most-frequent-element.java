@@ -3,14 +3,14 @@ class Solution {
         Arrays.sort(nums);
         int i=0;
         long sum=0;
-        int maxfreq=1;
+        int maxfreq=0;
         for(int j=0;j<nums.length;j++){
             sum+=nums[j];
             while((long)nums[j]*(j-i+1)-sum>k){
                 sum-=nums[i];
                 i++;
             }
-            maxfreq=Math.max(maxfreq,j-i+1);
+            maxfreq=Math.max(maxfreq,(j-i+1));
         }
         return maxfreq;
     }
