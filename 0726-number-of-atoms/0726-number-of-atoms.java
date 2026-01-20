@@ -41,17 +41,18 @@ class Solution {
 
             }
         }
-        Map<String,Integer> res=stack.pop();
-        TreeMap<String,Integer>sorted=new TreeMap<>(res);
-        StringBuilder out=new StringBuilder();
-        for(String k:sorted.keySet()){
-            out.append(k);
-            if(sorted.get(k)>1){
-                out.append(sorted.get(k));
+            Map<String,Integer> res=stack.pop();
+            List<String> keys = new ArrayList<>(res.keySet());
+            Collections.sort(keys);
+            StringBuilder out=new StringBuilder();
+            for(String k:keys){
+                out.append(k);
+                if(res.get(k)>1){
+                    out.append(res.get(k));
+                }
+
             }
+            return out.toString();
 
         }
-        return out.toString();
-
     }
-}
