@@ -73,6 +73,7 @@
 | [0242-valid-anagram](https://github.com/PardivReddy/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/PardivReddy/DSA-JAVA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/PardivReddy/DSA-JAVA/tree/master/0726-number-of-atoms) |
 | [0904-fruit-into-baskets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
@@ -115,6 +116,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/PardivReddy/DSA-JAVA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PardivReddy/DSA-JAVA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0867-new-21-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0867-new-21-game) |
@@ -140,6 +142,7 @@
 | [0187-repeated-dna-sequences](https://github.com/PardivReddy/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PardivReddy/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/PardivReddy/DSA-JAVA/tree/master/0242-valid-anagram) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/PardivReddy/DSA-JAVA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0726-number-of-atoms](https://github.com/PardivReddy/DSA-JAVA/tree/master/0726-number-of-atoms) |
 | [1021-remove-outermost-parentheses](https://github.com/PardivReddy/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -352,6 +355,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/PardivReddy/DSA-JAVA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
