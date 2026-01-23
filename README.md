@@ -35,6 +35,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/PardivReddy/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0792-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/PardivReddy/DSA-JAVA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1652-defuse-the-bomb](https://github.com/PardivReddy/DSA-JAVA/tree/master/1652-defuse-the-bomb) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -126,6 +127,7 @@
 | [0867-new-21-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0867-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/PardivReddy/DSA-JAVA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1652-defuse-the-bomb](https://github.com/PardivReddy/DSA-JAVA/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Probability and Statistics
@@ -369,6 +371,7 @@
 | [0239-sliding-window-maximum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/PardivReddy/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/PardivReddy/DSA-JAVA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Quickselect
 |  |
 | ------- |
@@ -417,6 +420,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/PardivReddy/DSA-JAVA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Design
 |  |
@@ -430,4 +434,9 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/PardivReddy/DSA-JAVA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/PardivReddy/DSA-JAVA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
