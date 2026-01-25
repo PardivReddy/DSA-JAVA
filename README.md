@@ -78,6 +78,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/PardivReddy/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/PardivReddy/DSA-JAVA/tree/master/0726-number-of-atoms) |
 | [0904-fruit-into-baskets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -122,6 +123,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/PardivReddy/DSA-JAVA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/PardivReddy/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PardivReddy/DSA-JAVA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0867-new-21-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0867-new-21-game) |
@@ -151,6 +153,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/PardivReddy/DSA-JAVA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/PardivReddy/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/PardivReddy/DSA-JAVA/tree/master/0726-number-of-atoms) |
 | [1021-remove-outermost-parentheses](https://github.com/PardivReddy/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -192,6 +195,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PardivReddy/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/PardivReddy/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/PardivReddy/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
+| [0567-permutation-in-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0567-permutation-in-string) |
 | [1894-merge-strings-alternately](https://github.com/PardivReddy/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
