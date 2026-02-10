@@ -275,6 +275,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -300,6 +301,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -350,6 +352,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -363,6 +366,7 @@
 | [0134-gas-station](https://github.com/PardivReddy/DSA-JAVA/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0611-valid-triangle-number) |
+| [1382-balance-a-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 ## Stack
@@ -385,6 +389,7 @@
 | [0099-recover-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PardivReddy/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -399,6 +404,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/PardivReddy/DSA-JAVA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1382-balance-a-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
