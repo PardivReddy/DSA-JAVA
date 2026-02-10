@@ -19,6 +19,7 @@
 | [0088-merge-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PardivReddy/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/PardivReddy/DSA-JAVA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PardivReddy/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/PardivReddy/DSA-JAVA/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -105,6 +106,7 @@
 | [0062-unique-paths](https://github.com/PardivReddy/DSA-JAVA/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/PardivReddy/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/PardivReddy/DSA-JAVA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PardivReddy/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PardivReddy/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/PardivReddy/DSA-JAVA/tree/master/0322-coin-change) |
