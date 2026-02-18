@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/PardivReddy/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PardivReddy/DSA-JAVA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0088-merge-sorted-array) |
@@ -364,6 +365,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/PardivReddy/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
 ## Greedy
@@ -431,6 +433,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/PardivReddy/DSA-JAVA/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bucket Sort
 |  |
