@@ -438,6 +438,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/PardivReddy/DSA-JAVA/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/PardivReddy/DSA-JAVA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bucket Sort
