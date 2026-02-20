@@ -52,6 +52,7 @@
 | [1652-defuse-the-bomb](https://github.com/PardivReddy/DSA-JAVA/tree/master/1652-defuse-the-bomb) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/PardivReddy/DSA-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1975-maximum-matrix-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -138,6 +139,7 @@
 | [0867-new-21-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0867-new-21-game) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/PardivReddy/DSA-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -382,6 +384,7 @@
 | [0078-subsets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/PardivReddy/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/PardivReddy/DSA-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Greedy
 |  |
 | ------- |
@@ -455,6 +458,7 @@
 | [0077-combinations](https://github.com/PardivReddy/DSA-JAVA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/PardivReddy/DSA-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -488,6 +492,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/PardivReddy/DSA-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
@@ -520,6 +525,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PardivReddy/DSA-JAVA/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/PardivReddy/DSA-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Segment Tree
 |  |
 | ------- |
