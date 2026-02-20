@@ -17,6 +17,7 @@
 | [0074-search-a-2d-matrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PardivReddy/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0088-merge-sorted-array) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0079-word-search) |
 | [1975-maximum-matrix-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 ## Hash Table
 |  |
@@ -178,6 +180,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/PardivReddy/DSA-JAVA/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/PardivReddy/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0179-largest-number) |
@@ -298,6 +301,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PardivReddy/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0099-recover-binary-search-tree) |
@@ -457,6 +461,7 @@
 | [0046-permutations](https://github.com/PardivReddy/DSA-JAVA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/PardivReddy/DSA-JAVA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PardivReddy/DSA-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bucket Sort
