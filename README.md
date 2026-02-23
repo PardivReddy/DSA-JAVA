@@ -31,6 +31,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PardivReddy/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/PardivReddy/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/PardivReddy/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [1975-maximum-matrix-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 ## Hash Table
 |  |
@@ -319,6 +321,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PardivReddy/DSA-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PardivReddy/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PardivReddy/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PardivReddy/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -342,6 +345,7 @@
 | [0112-path-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PardivReddy/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/PardivReddy/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PardivReddy/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/PardivReddy/DSA-JAVA/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/PardivReddy/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
@@ -540,4 +544,8 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/PardivReddy/DSA-JAVA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
