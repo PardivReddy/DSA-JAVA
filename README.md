@@ -301,6 +301,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -331,6 +332,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -386,6 +388,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation
