@@ -48,6 +48,7 @@
 | [0682-baseball-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0682-baseball-game) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PardivReddy/DSA-JAVA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/PardivReddy/DSA-JAVA/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/PardivReddy/DSA-JAVA/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/PardivReddy/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0792-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
@@ -130,6 +131,7 @@
 | [0650-2-keys-keyboard](https://github.com/PardivReddy/DSA-JAVA/tree/master/0650-2-keys-keyboard) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PardivReddy/DSA-JAVA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/PardivReddy/DSA-JAVA/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/PardivReddy/DSA-JAVA/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0867-new-21-game) |
 ## Math
 |  |
