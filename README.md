@@ -51,6 +51,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/PardivReddy/DSA-JAVA/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/PardivReddy/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0792-binary-search) |
+| [0881-boats-to-save-people](https://github.com/PardivReddy/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/PardivReddy/DSA-JAVA/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -248,6 +249,7 @@
 | [0567-permutation-in-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/PardivReddy/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/PardivReddy/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -266,6 +268,7 @@
 | [0658-find-k-closest-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0726-number-of-atoms](https://github.com/PardivReddy/DSA-JAVA/tree/master/0726-number-of-atoms) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/PardivReddy/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0881-boats-to-save-people](https://github.com/PardivReddy/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## String Matching
@@ -410,6 +413,7 @@
 | [0134-gas-station](https://github.com/PardivReddy/DSA-JAVA/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/PardivReddy/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
