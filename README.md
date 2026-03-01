@@ -15,6 +15,7 @@
 | [0045-jump-game-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/PardivReddy/DSA-JAVA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PardivReddy/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PardivReddy/DSA-JAVA/tree/master/0075-sort-colors) |
@@ -97,6 +98,7 @@
 | [0012-integer-to-roman](https://github.com/PardivReddy/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PardivReddy/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PardivReddy/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0187-repeated-dna-sequences](https://github.com/PardivReddy/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
@@ -194,6 +196,7 @@
 | [0020-valid-parentheses](https://github.com/PardivReddy/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/PardivReddy/DSA-JAVA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/PardivReddy/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
@@ -261,6 +264,7 @@
 | ------- |
 | [0015-3sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/PardivReddy/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0179-largest-number) |
