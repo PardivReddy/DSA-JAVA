@@ -65,6 +65,7 @@
 | [1975-maximum-matrix-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PardivReddy/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2498-frog-jump-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/2498-frog-jump-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3719-longest-balanced-subarray-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
@@ -83,6 +84,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PardivReddy/DSA-JAVA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0792-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2498-frog-jump-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/2498-frog-jump-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -426,6 +428,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
+| [2498-frog-jump-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/2498-frog-jump-ii) |
 ## Stack
 |  |
 | ------- |
