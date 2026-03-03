@@ -142,6 +142,7 @@
 | [0740-delete-and-earn](https://github.com/PardivReddy/DSA-JAVA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/PardivReddy/DSA-JAVA/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0867-new-21-game) |
+| [1137-n-th-tribonacci-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1137-n-th-tribonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0441-arranging-coins](https://github.com/PardivReddy/DSA-JAVA/tree/master/0441-arranging-coins) |
 | [0650-2-keys-keyboard](https://github.com/PardivReddy/DSA-JAVA/tree/master/0650-2-keys-keyboard) |
 | [0867-new-21-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0867-new-21-game) |
+| [1137-n-th-tribonacci-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1137-n-th-tribonacci-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PardivReddy/DSA-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -539,6 +541,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/PardivReddy/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
+| [1137-n-th-tribonacci-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1137-n-th-tribonacci-number) |
 ## Queue
 |  |
 | ------- |
