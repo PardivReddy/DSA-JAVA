@@ -139,6 +139,7 @@
 | [0198-house-robber](https://github.com/PardivReddy/DSA-JAVA/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PardivReddy/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/PardivReddy/DSA-JAVA/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/PardivReddy/DSA-JAVA/tree/master/0338-counting-bits) |
 | [0650-2-keys-keyboard](https://github.com/PardivReddy/DSA-JAVA/tree/master/0650-2-keys-keyboard) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PardivReddy/DSA-JAVA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/PardivReddy/DSA-JAVA/tree/master/0740-delete-and-earn) |
@@ -421,6 +422,7 @@
 | [0078-subsets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/PardivReddy/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/PardivReddy/DSA-JAVA/tree/master/0338-counting-bits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PardivReddy/DSA-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Greedy
 |  |
