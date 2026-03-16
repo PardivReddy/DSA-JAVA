@@ -4,19 +4,15 @@ class Solution {
             return 0;
         }
         int len=nums.length;
-        int count=1;
         int write=1;
-        int c=nums[0];
-            for(int j=1;j<len;j++){
-                if(nums[j]!=c){
-                     c=nums[j];
-                      nums[write] = nums[j]; 
+        for(int i=1;i<len;i++){
+            if(nums[i]!=nums[i-1]){
+                nums[write]=nums[i];
                 write++;
-                    count++;
-                   
-                }
-                }
-                    return count;
+
+            }
+        }
+        return write;
         }
         
 }
