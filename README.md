@@ -69,6 +69,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PardivReddy/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2498-frog-jump-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/2498-frog-jump-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3719-longest-balanced-subarray-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
@@ -94,6 +95,7 @@
 | [0079-word-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/PardivReddy/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [1975-maximum-matrix-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -288,6 +290,7 @@
 | [0881-boats-to-save-people](https://github.com/PardivReddy/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## String Matching
 |  |
 | ------- |
