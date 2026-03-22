@@ -249,6 +249,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/PardivReddy/DSA-JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PardivReddy/DSA-JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PardivReddy/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0876-middle-of-the-linked-list](https://github.com/PardivReddy/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -273,6 +274,7 @@
 | [0567-permutation-in-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/PardivReddy/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/PardivReddy/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/PardivReddy/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 ## Sorting
