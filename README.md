@@ -250,6 +250,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PardivReddy/DSA-JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PardivReddy/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0876-middle-of-the-linked-list](https://github.com/PardivReddy/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PardivReddy/DSA-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -277,6 +278,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/PardivReddy/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/PardivReddy/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/PardivReddy/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PardivReddy/DSA-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
