@@ -68,6 +68,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PardivReddy/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2498-frog-jump-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/2498-frog-jump-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/PardivReddy/DSA-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3719-longest-balanced-subarray-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
@@ -95,6 +96,7 @@
 | [0079-word-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/PardivReddy/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [1975-maximum-matrix-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/PardivReddy/DSA-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
 |  |
@@ -122,6 +124,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PardivReddy/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/PardivReddy/DSA-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3719-longest-balanced-subarray-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
@@ -166,6 +169,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PardivReddy/DSA-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2965-find-missing-and-repeated-values](https://github.com/PardivReddy/DSA-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
