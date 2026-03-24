@@ -34,6 +34,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PardivReddy/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PardivReddy/DSA-JAVA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/PardivReddy/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
@@ -163,6 +164,7 @@
 | [0029-divide-two-integers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/PardivReddy/DSA-JAVA/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/PardivReddy/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PardivReddy/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/PardivReddy/DSA-JAVA/tree/master/0441-arranging-coins) |
@@ -271,6 +273,7 @@
 | [0125-valid-palindrome](https://github.com/PardivReddy/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PardivReddy/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PardivReddy/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/PardivReddy/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0567-permutation-in-string) |
