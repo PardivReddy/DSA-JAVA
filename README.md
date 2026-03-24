@@ -15,6 +15,7 @@
 | [0045-jump-game-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/PardivReddy/DSA-JAVA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/PardivReddy/DSA-JAVA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/PardivReddy/DSA-JAVA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PardivReddy/DSA-JAVA/tree/master/0053-maximum-subarray) |
@@ -95,6 +96,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PardivReddy/DSA-JAVA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/PardivReddy/DSA-JAVA/tree/master/0200-number-of-islands) |
@@ -162,6 +164,7 @@
 | [0012-integer-to-roman](https://github.com/PardivReddy/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PardivReddy/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/PardivReddy/DSA-JAVA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/PardivReddy/DSA-JAVA/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/PardivReddy/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0189-rotate-array) |
