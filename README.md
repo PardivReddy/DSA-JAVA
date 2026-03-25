@@ -49,6 +49,7 @@
 | [0347-top-k-frequent-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/PardivReddy/DSA-JAVA/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/0496-next-greater-element-i) |
+| [0566-reshape-the-matrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [0611-valid-triangle-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/PardivReddy/DSA-JAVA/tree/master/0645-set-mismatch) |
@@ -102,6 +103,7 @@
 | [0079-word-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/PardivReddy/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/PardivReddy/DSA-JAVA/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/PardivReddy/DSA-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -491,6 +493,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
