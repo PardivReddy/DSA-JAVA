@@ -164,6 +164,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/PardivReddy/DSA-JAVA/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0867-new-21-game) |
 | [1137-n-th-tribonacci-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/PardivReddy/DSA-JAVA/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [0567-permutation-in-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/PardivReddy/DSA-JAVA/tree/master/0726-number-of-atoms) |
 | [1021-remove-outermost-parentheses](https://github.com/PardivReddy/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/PardivReddy/DSA-JAVA/tree/master/1143-longest-common-subsequence) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1894-merge-strings-alternately](https://github.com/PardivReddy/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
