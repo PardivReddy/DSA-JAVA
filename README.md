@@ -148,6 +148,7 @@
 | [0045-jump-game-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/PardivReddy/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/PardivReddy/DSA-JAVA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/PardivReddy/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/PardivReddy/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/PardivReddy/DSA-JAVA/tree/master/0118-pascals-triangle) |
@@ -172,6 +173,7 @@
 | [0029-divide-two-integers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/PardivReddy/DSA-JAVA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/PardivReddy/DSA-JAVA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/PardivReddy/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/PardivReddy/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PardivReddy/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -579,6 +581,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PardivReddy/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PardivReddy/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1137-n-th-tribonacci-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/1137-n-th-tribonacci-number) |
 ## Queue
