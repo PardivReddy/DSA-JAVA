@@ -73,6 +73,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PardivReddy/DSA-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1975-maximum-matrix-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PardivReddy/DSA-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PardivReddy/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2498-frog-jump-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/2498-frog-jump-ii) |
@@ -297,6 +298,7 @@
 | [0881-boats-to-save-people](https://github.com/PardivReddy/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/PardivReddy/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PardivReddy/DSA-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PardivReddy/DSA-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -505,6 +507,7 @@
 | [0566-reshape-the-matrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PardivReddy/DSA-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Divide and Conquer
 |  |
 | ------- |
