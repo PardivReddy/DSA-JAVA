@@ -177,6 +177,7 @@
 | [0029-divide-two-integers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/PardivReddy/DSA-JAVA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/PardivReddy/DSA-JAVA/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/PardivReddy/DSA-JAVA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PardivReddy/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/PardivReddy/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0189-rotate-array) |
@@ -231,6 +232,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/PardivReddy/DSA-JAVA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/PardivReddy/DSA-JAVA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/PardivReddy/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
@@ -458,6 +460,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/PardivReddy/DSA-JAVA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/PardivReddy/DSA-JAVA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/PardivReddy/DSA-JAVA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/PardivReddy/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
@@ -506,6 +509,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PardivReddy/DSA-JAVA/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
