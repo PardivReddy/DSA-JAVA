@@ -120,6 +120,7 @@
 | [0012-integer-to-roman](https://github.com/PardivReddy/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PardivReddy/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/PardivReddy/DSA-JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PardivReddy/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0187-repeated-dna-sequences](https://github.com/PardivReddy/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PardivReddy/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/PardivReddy/DSA-JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/PardivReddy/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
@@ -230,6 +232,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/PardivReddy/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PardivReddy/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/PardivReddy/DSA-JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/PardivReddy/DSA-JAVA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/PardivReddy/DSA-JAVA/tree/master/0067-add-binary) |
