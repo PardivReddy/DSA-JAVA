@@ -79,6 +79,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PardivReddy/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2498-frog-jump-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/2498-frog-jump-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/PardivReddy/DSA-JAVA/tree/master/2965-find-missing-and-repeated-values) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PardivReddy/DSA-JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3719-longest-balanced-subarray-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
@@ -141,6 +142,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PardivReddy/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/PardivReddy/DSA-JAVA/tree/master/2965-find-missing-and-repeated-values) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PardivReddy/DSA-JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3719-longest-balanced-subarray-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
@@ -592,6 +594,7 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PardivReddy/DSA-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PardivReddy/DSA-JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
