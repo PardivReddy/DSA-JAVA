@@ -403,6 +403,7 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PardivReddy/DSA-JAVA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PardivReddy/DSA-JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -425,6 +426,7 @@
 | [0733-flood-fill](https://github.com/PardivReddy/DSA-JAVA/tree/master/0733-flood-fill) |
 | [1005-univalued-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PardivReddy/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PardivReddy/DSA-JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -640,4 +642,9 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/PardivReddy/DSA-JAVA/tree/master/0200-number-of-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PardivReddy/DSA-JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PardivReddy/DSA-JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
