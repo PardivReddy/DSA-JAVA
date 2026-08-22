@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/PardivReddy/DSA-JAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/PardivReddy/DSA-JAVA/tree/master/0042-trapping-rain-water) |
@@ -89,6 +90,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/PardivReddy/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
