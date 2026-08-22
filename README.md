@@ -58,6 +58,7 @@
 | [0645-set-mismatch](https://github.com/PardivReddy/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PardivReddy/DSA-JAVA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/PardivReddy/DSA-JAVA/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/PardivReddy/DSA-JAVA/tree/master/0740-delete-and-earn) |
@@ -98,6 +99,7 @@
 | [0441-arranging-coins](https://github.com/PardivReddy/DSA-JAVA/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/PardivReddy/DSA-JAVA/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PardivReddy/DSA-JAVA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0792-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PardivReddy/DSA-JAVA/tree/master/1838-frequency-of-the-most-frequent-element) |
