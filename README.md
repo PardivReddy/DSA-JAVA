@@ -34,6 +34,7 @@
 | [0118-pascals-triangle](https://github.com/PardivReddy/DSA-JAVA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PardivReddy/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/PardivReddy/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/PardivReddy/DSA-JAVA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/PardivReddy/DSA-JAVA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PardivReddy/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -135,6 +136,7 @@
 | [0049-group-anagrams](https://github.com/PardivReddy/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/PardivReddy/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PardivReddy/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/PardivReddy/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/PardivReddy/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/PardivReddy/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PardivReddy/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
@@ -656,6 +658,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PardivReddy/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/PardivReddy/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PardivReddy/DSA-JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
