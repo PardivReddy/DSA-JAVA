@@ -65,6 +65,7 @@
 | [0704-binary-search](https://github.com/PardivReddy/DSA-JAVA/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PardivReddy/DSA-JAVA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/PardivReddy/DSA-JAVA/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/PardivReddy/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/PardivReddy/DSA-JAVA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/PardivReddy/DSA-JAVA/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/PardivReddy/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -518,6 +519,7 @@
 | [0496-next-greater-element-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/PardivReddy/DSA-JAVA/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/PardivReddy/DSA-JAVA/tree/master/0726-number-of-atoms) |
+| [0739-daily-temperatures](https://github.com/PardivReddy/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/PardivReddy/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search Tree
 |  |
@@ -594,6 +596,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PardivReddy/DSA-JAVA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/PardivReddy/DSA-JAVA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/PardivReddy/DSA-JAVA/tree/master/0739-daily-temperatures) |
 ## Rolling Hash
 |  |
 | ------- |
