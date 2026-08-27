@@ -668,4 +668,8 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PardivReddy/DSA-JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PardivReddy/DSA-JAVA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
